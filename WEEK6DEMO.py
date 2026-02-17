@@ -1,5 +1,3 @@
-#W6D1 - Searching Algorithms: Binary vs Sequential Search 
-
 import csv 
 
 library_nums = []     #the ONLY ORDERED field
